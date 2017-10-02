@@ -5,7 +5,8 @@ puts "Hello #{name}!"
 
 continents = [
   'Europe',
-  'Asia'
+  'Asia',
+  'America',
 ]
 
 continents.each { |c| puts "Hello #{c}" }
