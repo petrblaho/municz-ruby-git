@@ -11,3 +11,5 @@ continents = [
 ]
 
 continents.each { |c| puts "Hello #{c}" }
+
+puts "This is the end!"
