@@ -7,6 +7,7 @@ continents = [
   'Europe',
   'Asia',
   'America',
+  'Australia',
 ]
 
 continents.each { |c| puts "Hello #{c}" }
